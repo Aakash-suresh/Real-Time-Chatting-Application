@@ -4,12 +4,12 @@
 
 ### How to Clone This Repository
 
-Open terminal and type the following command
+Open terminal and type this following command to clone this repository
 
 ```
 git clone https://github.com/Aakash-suresh/Real-Time-Chatting-Application
 ```
-Or else you can directly download it from thiis page
+Or else you can directly download it from this page
 
 ## How to execute this program:
 
