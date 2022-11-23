@@ -35,8 +35,15 @@ you can directly open if you have already installed Python environment
 
 
 ## Output:
+### Server Side:
+![Output2](Server.png)
+
+### Client Side:
 <div style="width: 40%; height: 40%">
   
   ![Output](chat.png)
   
 </div>
+ 
+
+
