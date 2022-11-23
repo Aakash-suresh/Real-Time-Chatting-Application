@@ -37,6 +37,6 @@ you can directly open if you have already installed Python environment
 ## Output:
 <div style="width: 40%; height: 40%">
   
-  ![](chat.png)
+  ![Output](chat.png)
   
 </div>
